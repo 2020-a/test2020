@@ -1,0 +1,25 @@
+.os{
+    background: #333;
+    color:aliceblue;
+    padding: 10px;
+    margin:20px;
+}
+
+
+.border5{
+    -webkit-border-radius:15px;
+    -moz-border-radius:115px;
+    border-radius:15px;
+    
+}
+.red{
+    background: red;
+}
+
+.div{
+    border:2px solid green;
+    width:300px;
+    color:white;
+    font-size: 20px;
+    text-align: center;
+}
